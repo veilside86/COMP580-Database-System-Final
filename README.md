@@ -2,7 +2,13 @@
 ![](/results/game_table.png)
 ![](/results/publisher_table.png)
 
-## install requirements packages
+## Install requirements packages
 ```
 pip install -r requirements.txt
 ```
+
+## Main Fucntions
+> ADD
+> DELETE
+> SEARCH
+> CONNECT WITH PUBLISHER
